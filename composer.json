@@ -1,0 +1,6 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^0.1.0",
+        "joshcam/mysqli-database-class": "dev-master"
+    }
+}
